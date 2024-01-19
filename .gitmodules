@@ -1,0 +1,8 @@
+[submodule "ubos-template-woo-catalog-nr"]
+	path = ubos-template-woo-catalog-nr
+	url = https://github.com/UBOS-Asset-Store/ubos-template-woo-catalog-nr.git
+	branch = master
+[submodule "ubos-template-woo-catalog-ui"]
+	path = ubos-template-woo-catalog-ui
+	url = https://github.com/UBOS-Asset-Store/ubos-template-woo-catalog-ui.git
+	branch = main
